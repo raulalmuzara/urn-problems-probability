@@ -13,4 +13,4 @@ Here, we will focus on the analysis via simulation of the convergence properties
 
 **Rule D:** (Pólya's urn) If a white ball was drawn, an extra white ball is added to the urn. If a black ball was drawn, an extra black ball is added to the urn.
 
-For visualization on GitHub, click the .md file, which is rendered directly. If you want to run the code, download the .Rmd notebook containing the R code chunks. The notebook is also provided in the .html document format.
+To view the material on GitHub, click on the file *urn-problems.md*, whose contents are rendered correctly on this platform. If you want to run the code, download the notebook *urn-problems.Rmd* containing the R code chunks.
